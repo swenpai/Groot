@@ -1,0 +1,8 @@
+{
+  "name": "Groot",
+  "version": "1.0.0",
+  "description": "Groot, but.. the bot version!",
+  "main": "bot.js",
+  "author": "swenpai",
+  "dependencies": {}
+}
